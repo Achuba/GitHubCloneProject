@@ -1,0 +1,2 @@
+https://github.com/Achuba/GitHubCloneProject.git
+Hello, this is a message from my cloned repository!
